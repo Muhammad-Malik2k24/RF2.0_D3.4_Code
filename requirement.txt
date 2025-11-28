@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+cvxpy
+torch
+neuralforecast
+optuna
+pvlib
+matplotlib
+pytz
+gurobi
