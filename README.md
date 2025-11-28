@@ -10,7 +10,8 @@ This repository contains code for PV generation forecasting, battery optimizatio
 
 - `RF20_D34_Code_Base.ipynb` - Main Jupyter notebook with all three modules
 - `requirements.txt` - Python package dependencies
-- `Data/` - Input data folder (PV and climate data)
+- `Data/` - Input data folder (PV Forecast and climate data)
+- Note: The actual data used for training solar forecasting model is not shared at the meoment and will be later published.  But for the sake of analysis, the forecasted values over the test are provided in Data Folder as solar_df.csv. Climate Data is provided without any modifications.
 
 ## Installation
 
